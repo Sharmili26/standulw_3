@@ -1,7 +1,7 @@
 
 /* Dual Problem: Objective Function */
 
-Min: +750 y1 + 900 y2 + 450 y3 + 13000 y4 + 12000 y5 + 5000 y6 + 900 y7 + 1200 y8 + 750 y9 + 0* y10 + 0*y11;
+Min: +750 y1 + 900 y2 + 450 y3 + 13000 y4 + 12000 y5 + 5000 y6 + 900 y7 + 1200 y8 + 750 y9 + 0 y10 + 0 y11;
 
 /* Constraints */
 
